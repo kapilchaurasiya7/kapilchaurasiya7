@@ -1,7 +1,7 @@
 <!-- === Anime-style GitHub README for Kapil (Data Analyst) === -->
 <!-- Replace YOUR_USERNAME, YOUR_EMAIL, and social links -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME.png" alt="profile" width="120" style="border-radius:50%;"/>
+  <img src="https://github.com/kapilchauasiya7.png" alt="profile" width="120" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm Kapil 👋</h1>
